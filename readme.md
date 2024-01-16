@@ -14,9 +14,9 @@
 
 ## Introduction
 
-[This Project is an intelligent and adaptive firewall solution designed to enhance network security by leveraging machine learning algorithms. Unlike traditional 
+This Project is an intelligent and adaptive firewall solution designed to enhance network security by leveraging machine learning algorithms. Unlike traditional 
 firewalls that rely on predefined rules, this project employs advanced machine learning models to dynamically analyze network traffic, identify patterns, and make real-time decisions on 
-whether to allow or block incoming and outgoing connections]
+whether to allow or block incoming and outgoing connections
 
 ## Features
 
