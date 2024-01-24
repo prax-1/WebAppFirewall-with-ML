@@ -30,7 +30,7 @@ This project implements a simple web application firewall (WAF) that uses a mach
    ```bash
    pip install -r requirements.txt
 
-5. Train the Model(This step will take time according to your CPU)
+5. Train the Model (This step will take time according to your CPU)
    ```bash
    python script_main.py
 
