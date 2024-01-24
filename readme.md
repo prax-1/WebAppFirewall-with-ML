@@ -13,9 +13,9 @@ This project implements a simple web application firewall (WAF) that uses a mach
 
 - Python 3.x
 - Required Python packages (install via `pip install -r requirements.txt`):
-  - scikit-learn
-  - joblib
-  - tkinter (for GUI)
+  - Scikit-learn
+  - Joblib
+  - Tkinter (for GUI)
 
 ## Getting Started
 
