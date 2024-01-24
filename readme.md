@@ -22,7 +22,7 @@ This project implements a simple web application firewall (WAF) that uses a mach
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/web-app-firewall.git
+   git clone https://github.com/prax-1/WebAppFirewall-with-ML.git
 2. Navigate to the project directory
    ```bash
    cd web-app-firewall
