@@ -31,8 +31,21 @@ This project implements a simple web application firewall (WAF) that uses a mach
    pip install -r requirements.txt
 
 5. Train the Model
-  ```bash
+   ```bash
    python gui.py
+  
+##Usage
+1. Enter a URL in the provided input field.
+2. Click the "Classify URL" button to see the classification result.
+3. The GUI will display whether the URL is classified as "Malicious" or "Safe."
 
+##Customization
+Feel free to customize and extend the project based on your specific requirements. For example:
+1. Train your own machine learning model with a different dataset.
+2. Implement additional features in the GUI for a richer user experience.
 
+##Credits
+This project is developed by [Prakhar Gupta](https://github.com/prax-1). Contributions and suggestions are welcome.
 
+##License
+This project is licensed under the MIT License.
