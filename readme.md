@@ -24,8 +24,15 @@ This project implements a simple web application firewall (WAF) that uses a mach
    ```bash
    git clone https://github.com/yourusername/web-app-firewall.git
 2. Navigate to the project directory
-   '''bash
+   ```bash
    cd web-app-firewall
 4. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+
 5. Train the Model
-6. python gui.py
+  ```bash
+   python gui.py
+
+
+
