@@ -52,4 +52,4 @@ Feel free to customize and extend the project based on your specific requirement
 This project is developed by [Prakhar Gupta](https://github.com/prax-1). Contributions and suggestions are welcome.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/prax-1/WebAppFirewall-with-ML/blob/main/LICENSE).
