@@ -32,6 +32,10 @@ This project implements a simple web application firewall (WAF) that uses a mach
 
 5. Train the Model
    ```bash
+   python script_main.py
+
+6. Run the GUI
+   ```bash
    python gui.py
   
 ##Usage
