@@ -20,21 +20,24 @@ This project implements a simple web application firewall (WAF) that uses a mach
 ## Getting Started
 
 1. Clone the repository:
-
+   ![Cloning](data/clone.png)
    ```bash
    git clone https://github.com/prax-1/WebAppFirewall-with-ML.git
 2. Navigate to the project directory
+   ![cd](data/cd.png)
    ```bash
    cd WebAppFirewall-with-ML
 4. Install the required packages:
+   ![Install](data/requirements.png)
    ```bash
    pip install -r requirements.txt
 
-5. Train the Model (This step will take time according to your CPU)
+6. Train the Model (This step will take time according to your CPU)
+   ![Train](train/cd.png)
    ```bash
    python script_main.py
 
-6. Run the GUI
+8. Run the GUI
    ```bash
    python gui.py
   
