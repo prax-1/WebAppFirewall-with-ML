@@ -46,7 +46,7 @@ This project implements a simple web application firewall (WAF) that uses a mach
 2. Click the "Classify URL" button to see the classification result.
 3. The GUI will display whether the URL is classified as "Malicious" or "Safe."
 
-![Web App Firewall](data/image.png)
+![Web App Firewall](data/gui.png)
 
 ## Customization
 Feel free to customize and extend the project based on your specific requirements. For example:
