@@ -55,6 +55,7 @@ Feel free to customize and extend the project based on your specific requirement
 
 ## Credits
 This project is developed by [Prakhar Gupta](https://github.com/prax-1). Contributions and suggestions are welcome.
+The dataset is picked up from [This Repository](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall/blob/master/firewall_fsecurify.jpg)
 
 ## License
 This project is licensed under the [MIT License](https://github.com/prax-1/WebAppFirewall-with-ML/blob/main/LICENSE).
